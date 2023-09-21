@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/acmweb-immortal--task7/static/css/main.31c32301.css",
+    "main.js": "/acmweb-immortal--task7/static/js/main.a773dcc4.js",
+    "index.html": "/acmweb-immortal--task7/index.html",
+    "main.31c32301.css.map": "/acmweb-immortal--task7/static/css/main.31c32301.css.map",
+    "main.a773dcc4.js.map": "/acmweb-immortal--task7/static/js/main.a773dcc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c32301.css",
+    "static/js/main.a773dcc4.js"
+  ]
+}
